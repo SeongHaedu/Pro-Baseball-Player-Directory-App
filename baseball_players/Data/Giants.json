@@ -1,0 +1,281 @@
+[
+  {
+    "id": "0",
+    "name": "平内 龍太",
+    "number": "背番号：11",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：185cm / 90kg",
+    "birthday": "生年月日：1998年8月1日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "1",
+    "name": "Ｒ．デラロサ",
+    "number": "背番号：12",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：183cm / 95kg",
+    "birthday": "生年月日：1989年3月4日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "2",
+    "name": "Ａ．サンチェス",
+    "number": "背番号：15",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：185cm / 88kg",
+    "birthday": "生年月日：1989年11月28日",
+    "throwing": "投打：右投両打"
+  },
+  {
+    "id": "3",
+    "name": "菅野 智之",
+    "number": "背番号：18",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：186cm / 92kg",
+    "birthday": "生年月日：1989年10月11日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "4",
+    "name": "戸郷 翔征",
+    "number": "背番号：20",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：187cm / 78kg",
+    "birthday": "生年月日：2000年4月4日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "5",
+    "name": "今村 信貴",
+    "number": "背番号：26",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：180cm / 90kg",
+    "birthday": "生年月日：1994年3月15日",
+    "throwing": "投打：左投左打"
+  },
+  {
+    "id": "6",
+    "name": "鍵谷 陽平",
+    "number": "背番号：30",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：178cm / 86kg",
+    "birthday": "生年月日：1990年9月23日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "7",
+    "name": "中川 皓太",
+    "number": "背番号：41",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：183cm / 86kg",
+    "birthday": "生年月日：1994年2月24日",
+    "throwing": "投打：左投左打"
+  },
+  {
+    "id": "8",
+    "name": "畠 世周",
+    "number": "背番号：45",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：186cm / 82kg",
+    "birthday": "生年月日：1994年5月31日",
+    "throwing": "投打：右投左打"
+  },
+  {
+    "id": "9",
+    "name": "高橋 優貴",
+    "number": "背番号：47",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：178cm / 82kg",
+    "birthday": "生年月日：1997年2月1日",
+    "throwing": "投打：左投左打"
+  },
+  {
+    "id": "10",
+    "name": "Ｔ．ビエイラ",
+    "number": "背番号：49",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：193cm / 113kg",
+    "birthday": "生年月日：1993年1月7日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "11",
+    "name": "高梨 雄平",
+    "number": "背番号：53",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：175cm / 81kg",
+    "birthday": "生年月日：1992年7月13日",
+    "throwing": "投打：左投左打"
+  },
+  {
+    "id": "12",
+    "name": "高木 京介",
+    "number": "背番号：57",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：183cm / 90kg",
+    "birthday": "生年月日：1989年9月5日",
+    "throwing": "投打：左投左打"
+  },
+  {
+    "id": "13",
+    "name": "田中 豊樹",
+    "number": "背番号：59",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：180cm / 98kg",
+    "birthday": "生年月日：1993年12月1日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "14",
+    "name": "大江 竜聖",
+    "number": "背番号：64",
+    "position": "ポジション：投手",
+    "height_weight": "身長 / 体重：173cm / 81kg",
+    "birthday": "生年月日：1999年1月15日",
+    "throwing": "投打：左投左打"
+  },
+  {
+    "id": "15",
+    "name": "大城 卓三",
+    "number": "背番号：24",
+    "position": "ポジション：捕手",
+    "height_weight": "身長 / 体重：187cm / 90kg",
+    "birthday": "生年月日：1993年2月11日",
+    "throwing": "投打：右投左打"
+  },
+  {
+    "id": "16",
+    "name": "炭谷 銀仁朗",
+    "number": "背番号：27",
+    "position": "ポジション：捕手",
+    "height_weight": "身長 / 体重：181cm / 98kg",
+    "birthday": "生年月日：1987年7月19日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "17",
+    "name": "岸田 行倫",
+    "number": "背番号：38",
+    "position": "ポジション：捕手",
+    "height_weight": "身長 / 体重：176cm / 88kg",
+    "birthday": "生年月日：1996年10月10日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "18",
+    "name": "湯浅 大",
+    "number": "背番号：00",
+    "position": "ポジション：内野手",
+    "height_weight": "身長 / 体重：172cm / 70kg",
+    "birthday": "生年月日：2000年1月24日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "19",
+    "name": "増田 大輝",
+    "number": "背番号：0",
+    "position": "ポジション：内野手",
+    "height_weight": "身長 / 体重：172cm / 68kg",
+    "birthday": "生年月日：1993年7月29日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "20",
+    "name": "坂本 勇人",
+    "number": "背番号：6",
+    "position": "ポジション：内野手",
+    "height_weight": "身長 / 体重：186cm / 86kg",
+    "birthday": "生年月日：1988年12月14日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "21",
+    "name": "岡本 和真",
+    "number": "背番号：25",
+    "position": "ポジション：内野手",
+    "height_weight": "身長 / 体重：185cm / 96kg",
+    "birthday": "生年月日：1996年6月30日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "22",
+    "name": "吉川 尚輝",
+    "number": "背番号：29",
+    "position": "ポジション：内野手",
+    "height_weight": "身長 / 体重：177cm / 78kg",
+    "birthday": "生年月日：1995年2月8日",
+    "throwing": "投打：右投左打"
+  },
+  {
+    "id": "23",
+    "name": "廣岡 大志",
+    "number": "背番号：32",
+    "position": "ポジション：内野手",
+    "height_weight": "身長 / 体重：183cm / 81kg",
+    "birthday": "生年月日：1997年4月9日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "24",
+    "name": "香月 一也",
+    "number": "背番号：66",
+    "position": "ポジション：内野手",
+    "height_weight": "身長 / 体重：176cm / 83kg",
+    "birthday": "生年月日：1996年4月16日",
+    "throwing": "投打：右投左打"
+  },
+  {
+    "id": "25",
+    "name": "亀井 善行",
+    "number": "背番号：9",
+    "position": "ポジション：外野手",
+    "height_weight": "身長 / 体重：178cm / 82kg",
+    "birthday": "生年月日：1982年7月28日",
+    "throwing": "投打：右投左打"
+  },
+  {
+    "id": "26",
+    "name": "梶谷 隆幸",
+    "number": "背番号：13",
+    "position": "ポジション：外野手",
+    "height_weight": "身長 / 体重：180cm / 88kg",
+    "birthday": "生年月日：1988年8月28日",
+    "throwing": "投打：右投左打"
+  },
+  {
+    "id": "27",
+    "name": "松原 聖弥",
+    "number": "背番号：31",
+    "position": "ポジション：外野手",
+    "height_weight": "身長 / 体重：173cm / 74kg",
+    "birthday": "生年月日：1995年1月26日",
+    "throwing": "投打：右投左打"
+  },
+  {
+    "id": "28",
+    "name": "石川 慎吾",
+    "number": "背番号：36",
+    "position": "ポジション：外野手",
+    "height_weight": "身長 / 体重：178cm / 80kg",
+    "birthday": "生年月日：1993年4月27日",
+    "throwing": "投打：右投右打"
+  },
+  {
+    "id": "29",
+    "name": "立岡 宗一郎",
+    "number": "背番号：39",
+    "position": "ポジション：外野手",
+    "height_weight": "身長 / 体重：181cm / 82kg",
+    "birthday": "生年月日：1990年5月18日",
+    "throwing": "投打：右投左打"
+  },
+  {
+    "id": "30",
+    "name": "重信 慎之介",
+    "number": "背番号：43",
+    "position": "ポジション：外野手",
+    "height_weight": "身長 / 体重：173cm / 74kg",
+    "birthday": "生年月日：1993年4月17日",
+    "throwing": "投打：右投左打"
+  }
+]
