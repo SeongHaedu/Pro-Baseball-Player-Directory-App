@@ -6,7 +6,7 @@
     <br>
 <p>
 <p align="center">
-    <a href="https://github.com/huggingface/transformers/blob/master/LICENSE">
+    <a href="https://github.com/SeongHaedu/Pro-Baseball-Player-Directory-App/blob/main/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/huggingface/transformers.svg?color=blue">
     </a>
 </p>
