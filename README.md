@@ -17,3 +17,7 @@ https://user-images.githubusercontent.com/43167769/123196251-8d1c3480-d4e4-11eb-
 
 
 
+## Author
+ 
+* Kaito Narimoto
+* kaito_narimoto@icloud.com
