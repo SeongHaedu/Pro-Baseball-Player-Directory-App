@@ -11,6 +11,9 @@ struct DataStore {
     let yakult: [Yakult] = load("Yakult.json")
     let giants: [Giants] = load("Giants.json")
     let tigers: [Tigers] = load("Tigers.json")
+    let softbank: [Softbank] = load("Softbank.json")
+    let nichihamu: [Nichihamu] = load("Nichihamu.json")
+    let lotte: [Lotte] = load("Lotte.json")
 }
 
 let dataStore = DataStore()

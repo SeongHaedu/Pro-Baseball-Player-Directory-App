@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		21427A03268BEC0200BB568C /* TigersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21427A02268BEC0200BB568C /* TigersView.swift */; };
+		21427A05268BF4FA00BB568C /* Softbank.json in Resources */ = {isa = PBXBuildFile; fileRef = 21427A04268BF4FA00BB568C /* Softbank.json */; };
+		21427A07268BF50800BB568C /* Nichihamu.json in Resources */ = {isa = PBXBuildFile; fileRef = 21427A06268BF50800BB568C /* Nichihamu.json */; };
+		21427A09268BF51100BB568C /* Lotte.json in Resources */ = {isa = PBXBuildFile; fileRef = 21427A08268BF51100BB568C /* Lotte.json */; };
+		21427A0B268BF64800BB568C /* Softbank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21427A0A268BF64800BB568C /* Softbank.swift */; };
+		21427A0D268BF7CA00BB568C /* Nichihamu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21427A0C268BF7CA00BB568C /* Nichihamu.swift */; };
+		21427A0F268BF86C00BB568C /* Lotte.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21427A0E268BF86C00BB568C /* Lotte.swift */; };
+		21427A16268C020000BB568C /* SoftbankPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21427A15268C020000BB568C /* SoftbankPlayerView.swift */; };
 		216F638C2626D6CB006028A4 /* Giants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 216F638B2626D6CB006028A4 /* Giants.swift */; };
 		216F63902626DAAB006028A4 /* GiantsPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 216F638F2626DAAB006028A4 /* GiantsPlayerView.swift */; };
 		2180A4042630059B00FCCFAA /* GiantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2180A4032630059B00FCCFAA /* GiantsView.swift */; };
@@ -16,10 +24,12 @@
 		21A377E726173E9E00971E72 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A377E626173E9E00971E72 /* Data.swift */; };
 		21A377EB261811D900971E72 /* YakultPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A377EA261811D900971E72 /* YakultPlayerView.swift */; };
 		21C4CF2D25F784640050A480 /* YakultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C4CF2B25F784640050A480 /* YakultView.swift */; };
-		21C4CF2E25F784640050A480 /* TigersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C4CF2C25F784640050A480 /* TigersView.swift */; };
-		21C4CF3325F7846E0050A480 /* NipponHamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C4CF3125F7846E0050A480 /* NipponHamView.swift */; };
-		21C4CF3425F7846E0050A480 /* SoftbankView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C4CF3225F7846E0050A480 /* SoftbankView.swift */; };
 		21C4CF3725F785150050A480 /* Yamada.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C4CF3625F785150050A480 /* Yamada.swift */; };
+		21CDCCFD26944F6700DAD76D /* NichihamuPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21CDCCFC26944F6700DAD76D /* NichihamuPlayerView.swift */; };
+		21CDCCFF2694500D00DAD76D /* LottePlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21CDCCFE2694500D00DAD76D /* LottePlayerView.swift */; };
+		21CDCD012694513E00DAD76D /* SoftbankView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21CDCD002694513E00DAD76D /* SoftbankView.swift */; };
+		21CDCD03269451E700DAD76D /* NichihamuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21CDCD02269451E700DAD76D /* NichihamuView.swift */; };
+		21CDCD052694527C00DAD76D /* LotteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21CDCD042694527C00DAD76D /* LotteView.swift */; };
 		34872FAA25F61FF300F2042F /* baseball_playersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34872FA925F61FF300F2042F /* baseball_playersApp.swift */; };
 		34872FAC25F61FF300F2042F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34872FAB25F61FF300F2042F /* ContentView.swift */; };
 		34872FAE25F61FF400F2042F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34872FAD25F61FF400F2042F /* Assets.xcassets */; };
@@ -30,6 +40,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		21427A02268BEC0200BB568C /* TigersView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TigersView.swift; sourceTree = "<group>"; };
+		21427A04268BF4FA00BB568C /* Softbank.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Softbank.json; path = "../../../../Pro-Baseball-Player-Directory-App-Materials/PacificLeague/Softbank/Softbank.json"; sourceTree = "<group>"; };
+		21427A06268BF50800BB568C /* Nichihamu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Nichihamu.json; path = "../../../../Pro-Baseball-Player-Directory-App-Materials/PacificLeague/Nichihamu/Nichihamu.json"; sourceTree = "<group>"; };
+		21427A08268BF51100BB568C /* Lotte.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Lotte.json; path = "../../../../Pro-Baseball-Player-Directory-App-Materials/PacificLeague/Lotte/Lotte.json"; sourceTree = "<group>"; };
+		21427A0A268BF64800BB568C /* Softbank.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Softbank.swift; sourceTree = "<group>"; };
+		21427A0C268BF7CA00BB568C /* Nichihamu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Nichihamu.swift; sourceTree = "<group>"; };
+		21427A0E268BF86C00BB568C /* Lotte.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Lotte.swift; sourceTree = "<group>"; };
+		21427A15268C020000BB568C /* SoftbankPlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoftbankPlayerView.swift; sourceTree = "<group>"; };
 		216F638B2626D6CB006028A4 /* Giants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Giants.swift; sourceTree = "<group>"; };
 		216F638F2626DAAB006028A4 /* GiantsPlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GiantsPlayerView.swift; sourceTree = "<group>"; };
 		2180A4032630059B00FCCFAA /* GiantsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GiantsView.swift; sourceTree = "<group>"; };
@@ -39,10 +57,12 @@
 		21A377E626173E9E00971E72 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		21A377EA261811D900971E72 /* YakultPlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YakultPlayerView.swift; sourceTree = "<group>"; };
 		21C4CF2B25F784640050A480 /* YakultView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YakultView.swift; sourceTree = "<group>"; };
-		21C4CF2C25F784640050A480 /* TigersView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TigersView.swift; sourceTree = "<group>"; };
-		21C4CF3125F7846E0050A480 /* NipponHamView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NipponHamView.swift; sourceTree = "<group>"; };
-		21C4CF3225F7846E0050A480 /* SoftbankView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoftbankView.swift; sourceTree = "<group>"; };
 		21C4CF3625F785150050A480 /* Yamada.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Yamada.swift; sourceTree = "<group>"; };
+		21CDCCFC26944F6700DAD76D /* NichihamuPlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NichihamuPlayerView.swift; sourceTree = "<group>"; };
+		21CDCCFE2694500D00DAD76D /* LottePlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LottePlayerView.swift; sourceTree = "<group>"; };
+		21CDCD002694513E00DAD76D /* SoftbankView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoftbankView.swift; sourceTree = "<group>"; };
+		21CDCD02269451E700DAD76D /* NichihamuView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NichihamuView.swift; sourceTree = "<group>"; };
+		21CDCD042694527C00DAD76D /* LotteView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteView.swift; sourceTree = "<group>"; };
 		34872FA625F61FF300F2042F /* baseball_players.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = baseball_players.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34872FA925F61FF300F2042F /* baseball_playersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baseball_playersApp.swift; sourceTree = "<group>"; };
 		34872FAB25F61FF300F2042F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -65,6 +85,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		21427A10268BF94D00BB568C /* Softbank */ = {
+			isa = PBXGroup;
+			children = (
+				21CDCD002694513E00DAD76D /* SoftbankView.swift */,
+				21427A15268C020000BB568C /* SoftbankPlayerView.swift */,
+			);
+			path = Softbank;
+			sourceTree = "<group>";
+		};
+		21427A11268BF96300BB568C /* Nichihamu */ = {
+			isa = PBXGroup;
+			children = (
+				21CDCD02269451E700DAD76D /* NichihamuView.swift */,
+				21CDCCFC26944F6700DAD76D /* NichihamuPlayerView.swift */,
+			);
+			path = Nichihamu;
+			sourceTree = "<group>";
+		};
+		21427A12268BF98700BB568C /* Lotte */ = {
+			isa = PBXGroup;
+			children = (
+				21CDCD042694527C00DAD76D /* LotteView.swift */,
+				21CDCCFE2694500D00DAD76D /* LottePlayerView.swift */,
+			);
+			path = Lotte;
+			sourceTree = "<group>";
+		};
 		216F638E2626D9E0006028A4 /* Giants */ = {
 			isa = PBXGroup;
 			children = (
@@ -77,6 +124,7 @@
 		2180A4132636AB2800FCCFAA /* Tigers */ = {
 			isa = PBXGroup;
 			children = (
+				21427A02268BEC0200BB568C /* TigersView.swift */,
 				2180A4142636ADC800FCCFAA /* TigersPlayerView.swift */,
 			);
 			path = Tigers;
@@ -85,6 +133,12 @@
 		21A377D8261732C500971E72 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				21427A0E268BF86C00BB568C /* Lotte.swift */,
+				21427A08268BF51100BB568C /* Lotte.json */,
+				21427A0C268BF7CA00BB568C /* Nichihamu.swift */,
+				21427A06268BF50800BB568C /* Nichihamu.json */,
+				21427A0A268BF64800BB568C /* Softbank.swift */,
+				21427A04268BF4FA00BB568C /* Softbank.json */,
 				216F638B2626D6CB006028A4 /* Giants.swift */,
 				34ADB2E6268422C200926405 /* Giants.json */,
 				2180A40D26363BFD00FCCFAA /* Tigers.swift */,
@@ -103,7 +157,6 @@
 				2180A4132636AB2800FCCFAA /* Tigers */,
 				216F638E2626D9E0006028A4 /* Giants */,
 				21C4CF2A25F784640050A480 /* Yakult */,
-				21C4CF2C25F784640050A480 /* TigersView.swift */,
 			);
 			path = CentralLeague;
 			sourceTree = "<group>";
@@ -121,8 +174,9 @@
 		21C4CF3025F7846E0050A480 /* PacificLeague */ = {
 			isa = PBXGroup;
 			children = (
-				21C4CF3125F7846E0050A480 /* NipponHamView.swift */,
-				21C4CF3225F7846E0050A480 /* SoftbankView.swift */,
+				21427A12268BF98700BB568C /* Lotte */,
+				21427A11268BF96300BB568C /* Nichihamu */,
+				21427A10268BF94D00BB568C /* Softbank */,
 			);
 			path = PacificLeague;
 			sourceTree = "<group>";
@@ -224,8 +278,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				34ADB2EB268422D000926405 /* Yakult.json in Resources */,
+				21427A05268BF4FA00BB568C /* Softbank.json in Resources */,
+				21427A09268BF51100BB568C /* Lotte.json in Resources */,
 				34872FB125F61FF400F2042F /* Preview Assets.xcassets in Resources */,
 				34ADB2E9268422C900926405 /* Tigers.json in Resources */,
+				21427A07268BF50800BB568C /* Nichihamu.json in Resources */,
 				34ADB2E7268422C200926405 /* Giants.json in Resources */,
 				34872FAE25F61FF400F2042F /* Assets.xcassets in Resources */,
 			);
@@ -238,21 +295,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				21C4CF2E25F784640050A480 /* TigersView.swift in Sources */,
 				2180A4042630059B00FCCFAA /* GiantsView.swift in Sources */,
+				21427A0B268BF64800BB568C /* Softbank.swift in Sources */,
+				21CDCCFD26944F6700DAD76D /* NichihamuPlayerView.swift in Sources */,
 				21A377E426173CCA00971E72 /* Yakult.swift in Sources */,
+				21CDCD012694513E00DAD76D /* SoftbankView.swift in Sources */,
+				21427A03268BEC0200BB568C /* TigersView.swift in Sources */,
 				34872FAC25F61FF300F2042F /* ContentView.swift in Sources */,
 				216F63902626DAAB006028A4 /* GiantsPlayerView.swift in Sources */,
 				21A377EB261811D900971E72 /* YakultPlayerView.swift in Sources */,
 				21C4CF3725F785150050A480 /* Yamada.swift in Sources */,
+				21CDCCFF2694500D00DAD76D /* LottePlayerView.swift in Sources */,
+				21427A16268C020000BB568C /* SoftbankPlayerView.swift in Sources */,
 				34872FAA25F61FF300F2042F /* baseball_playersApp.swift in Sources */,
-				21C4CF3325F7846E0050A480 /* NipponHamView.swift in Sources */,
+				21427A0D268BF7CA00BB568C /* Nichihamu.swift in Sources */,
 				2180A4152636ADC800FCCFAA /* TigersPlayerView.swift in Sources */,
-				21C4CF3425F7846E0050A480 /* SoftbankView.swift in Sources */,
+				21427A0F268BF86C00BB568C /* Lotte.swift in Sources */,
 				21A377E726173E9E00971E72 /* Data.swift in Sources */,
 				216F638C2626D6CB006028A4 /* Giants.swift in Sources */,
 				21C4CF2D25F784640050A480 /* YakultView.swift in Sources */,
+				21CDCD052694527C00DAD76D /* LotteView.swift in Sources */,
 				2180A40E26363BFD00FCCFAA /* Tigers.swift in Sources */,
+				21CDCD03269451E700DAD76D /* NichihamuView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -25,12 +25,14 @@ struct ContentView: View {
                                     .resizable()
                                     .frame(width: 150, height: 150)
                             }
+                            
                             NavigationLink(
-                                destination: TigersView()) {
+                                destination: TigersView(team: dataStore.tigers)) {
                                 Image("阪神タイガース")
                                     .resizable()
                                     .frame(width: 150, height: 150)
                             }
+                            
                             NavigationLink(
                                 destination: GiantsView(team: dataStore.giants)) {
                                 Image("読売ジャイアンツ")
@@ -45,20 +47,23 @@ struct ContentView: View {
                         .fontWeight(.bold)
                     ScrollView(.horizontal, showsIndicators: false) {
                         HStack(alignment: .top, spacing: 0) {
+                            
                             NavigationLink(
-                                destination: NipponHamView()) {
+                                destination: NichihamuView(team: dataStore.nichihamu)) {
                                 Image("北海道日本ハムファイターズ")
                                     .resizable()
                                     .frame(width: 150, height: 150)
                             }
+                            
                             NavigationLink(
-                                destination: SoftbankView()) {
+                                destination: SoftbankView(team: dataStore.softbank)) {
                                 Image("福岡ソフトバンクホークス")
                                     .resizable()
                                     .frame(width: 150, height: 150)
                             }
+                            
                             NavigationLink(
-                                destination: NipponHamView()) {
+                                destination: LotteView(team: dataStore.lotte)) {
                                 Image("千葉ロッテマリーンズ")
                                     .resizable()
                                     .frame(width: 150, height: 150)

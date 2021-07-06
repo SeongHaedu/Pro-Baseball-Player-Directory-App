@@ -13,7 +13,6 @@ struct TigersPlayerView: View {
     
     var body: some View {
         
-        
         ZStack {
             Image("東京ドーム").opacity(0.4)
             VStack(alignment: .center, spacing: 50)  {
